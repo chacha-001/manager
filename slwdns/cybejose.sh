@@ -15,7 +15,7 @@ fi
 # ============================================================================
 SSHD_PORT=22
 SLOWDNS_PORT=5300
-GITHUB_BASE="https://raw.githubusercontent.com/Amokhan-tech/psv/main/dns/open"
+GITHUB_BASE="https://raw.githubusercontent.com/chacha-001/manager/main/slwdns"
 
 # ============================================================================
 # MODERN COLORS & DESIGN
